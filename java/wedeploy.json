@@ -1,0 +1,9 @@
+{
+    "id": "java",
+    "env": {
+      "NEO4J_ADMIN_USER": "neo4j",
+      "NEO4J_ADMIN_PASSWORD": "neo4j"
+    },
+    "memory": 2048,
+    "zeroDowntime": false
+  }
